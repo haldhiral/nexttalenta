@@ -1,0 +1,10 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: 'ArialMT'; font-size: 40px; fill: #FFFFFF; }
+    .arrow { fill: #FFFFFF; }
+  </style>
+  <!-- Arrow Graphic -->
+  <polygon class="arrow" points="10,20 30,50 10,80 50,50" />
+  <!-- Text -->
+  <text x="60" y="65" class="text">NextTalenta</text>
+</svg>
